@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/jenkins/s/https/jenkins.qa.ubuntu.com/view/Precise/view/All%20Precise/job/precise-desktop-amd64_default.svg" title="Build Status">
 
-<img src="https://github.com/smart-fm/simmobility-prod/wiki/images/license_logo.png" title="License" width="90" height="31" url="https://github.com/smart-fm/simmobility-prod/blob/master/license.txt">
+<img src="https://github.com/smart-fm/simmobility-prod/wiki/images/license_logo.png" title="License" width="72" height="25" url="https://github.com/smart-fm/simmobility-prod/blob/master/license.txt">
 
 
 
