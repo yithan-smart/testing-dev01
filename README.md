@@ -9,7 +9,7 @@
 &emsp; [License](https://github.com/smart-fm/simmobility-prod/blob/master/license.txt)
 
 
-[![https://github.com/smart-fm/simmobility-prod/wiki/images/license_logo.jpg](License)](https://github.com/smart-fm/simmobility-prod/blob/master/license.txt)
+[![https://github.com/smart-fm/simmobility-prod/wiki/images/license_logo.png](License)](https://github.com/smart-fm/simmobility-prod/blob/master/license.txt)
 
 
 * [SimMobility: A Multi-Scale cale Integrated  Agent-based Simulation Platform](https://github.com/kakalibasak/wiki-images/blob/master/SimMobility%20Paper_revised%20version.pdf)
