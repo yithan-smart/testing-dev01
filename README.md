@@ -1,3 +1,4 @@
+<img src="https://github.com/smart-fm/simmobility-prod/wiki/images/SimMobility_logo.jpg" title="SimMobility Logo">
 
 ![Build Status](https://github.com/smart-fm/simmobility-prod/wiki/images/build_passing_logo.svg)
 [License](https://github.com/smart-fm/simmobility-prod/blob/master/license.txt)
