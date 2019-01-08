@@ -18,4 +18,8 @@ For Individual Level
 * [SimMobility Mid-Term Simulator: A State of the Art Integrated Agent Based Demand and Supply Model](https://github.com/kakalibasak/wiki-images/blob/master/15-3937-%20TRB%20MT%20PAPER.pdf)
 
 
-Email us at simmobility_support@smart.mit.edu
+## Getting help
+
+
+For software related issues and discussions, please join our user's <a href="http://137.132.22.82:15059/vanilla/">forum</a>
+For any other queries, please contact <a href="mailto:simmobility_support@smart.mit.edu">SimMobility Team</a>
