@@ -21,5 +21,5 @@ For Individual Level
 ## Getting help
 
 
-Join our user's <a href="http://137.132.22.82:15059/vanilla/" target="_blank">forum</a> for discusions on software related issues. <br>
+Join our user's <a href="http://137.132.22.82:15059/vanilla/" target="_blank">forum</a> for discussions on software related topics.<br>
 For any other queries, please contact <a href="mailto:simmobility_support@smart.mit.edu">SimMobility Team</a>.
